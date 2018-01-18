@@ -2,9 +2,12 @@
 
 # dependencies
 /node_modules
-/coverage
+
 # testing
 
+# Ignore test-related files
+/coverage.data
+/coverage/
 
 # production
 /build
